@@ -12,4 +12,4 @@ Pasos para instalar y ejecutar el proyecto localmente.
 
 1. Clona el repositorio:
    ```bash
-   https://github.com/YohanLotor/dashboard-clon.git
+   https://github.com/YohanLotor/dashboard-clon.gitgit 
